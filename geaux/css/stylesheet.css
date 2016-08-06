@@ -74,9 +74,18 @@ p{
 	font:bolder;
 	font-size: 120%;
 }
-.video{
+video{
 	height: 25em;
-        width: 45em;
+	width: 45em;
+}
+.closed{
+	display: none;
+}
+
+.special{
+	color: gray;
+	font:bolder;
+	font-size: 120%;
 }
 
 .open{
