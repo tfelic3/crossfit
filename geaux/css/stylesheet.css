@@ -65,8 +65,10 @@ p{
 }
 
 video{
-	height: 25em;
-	width: 20em;
+	height: 30em;
+	width: 27em;
+	margin-left: auto;
+    margin-right: auto;
 }
 .closed{
 	display: none;
